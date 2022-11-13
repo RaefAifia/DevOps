@@ -1,5 +1,5 @@
 FROM openjdk:11
-MAINTAINER MedWassimHabibi <medwassim.habibi@esprit.tn>
+MAINTAINER RaefAifia <raef.aifia@esprit.tn>
 
 
 COPY ./target/tpAchatProject-1.0.jar tpAchatProject-1.0.jar
